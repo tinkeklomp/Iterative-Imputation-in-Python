@@ -1,4 +1,4 @@
-Simulation Setup for Master Thesis Project of Tinke Klomp
+Simulation Setup for Master Thesis Project "Iterative Imputation in Python" by Tinke Klomp
 
 The performance of IterativeImputer is assessed through bias, coverage rate and confidence interval width.
 
